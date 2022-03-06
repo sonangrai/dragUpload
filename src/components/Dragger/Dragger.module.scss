@@ -1,0 +1,21 @@
+.dragSection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 90vh;
+}
+
+.dragBox {
+  width: 500px;
+}
+
+.actionBar {
+  width: 500px;
+  background-color: #eee;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.4em;
+  margin-top: 1em;
+}
